@@ -1,4 +1,4 @@
-require('../css/footer.css')
+require('../css/components/footer.css')
 
 export const footer = () =>{
     const $content = document.getElementById('content'); 
