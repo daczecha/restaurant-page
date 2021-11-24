@@ -1,0 +1,14 @@
+#about_text{
+    font-size: 12px;
+    padding: 20px;
+    width: 700px;
+    float: left;
+}
+
+
+#about_image{
+    padding: 20px;
+    float:right;
+    height: 300px;
+    width: auto;
+}

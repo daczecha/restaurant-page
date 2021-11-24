@@ -71,3 +71,7 @@
     height: auto;
     border-bottom: 1px solid #ddd;
 }
+
+.set-filter{
+    background-color: red;
+}

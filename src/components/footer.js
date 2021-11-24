@@ -6,6 +6,6 @@ export const footer = () =>{
     const $footer = document.createElement('div');
     $footer.id = 'footer';
     $footer.classList.add('footer');
-    $footer.innerText = "Made by daczecha";
+    $footer.innerHTML = 'Made by <a href = "https://github.com/daczecha">daczecha</a>';
     $content.appendChild($footer);
 }

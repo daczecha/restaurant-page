@@ -162,8 +162,6 @@ export const menu = () => {
 
 
 } 
-
-
 function updateMenu(filter, menuArray, $menu, $main, $filter){
     for(let i = 0; i<menuArray.length; i++){
         if (filter === 'all'){
